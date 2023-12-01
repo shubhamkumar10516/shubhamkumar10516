@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamkumar10516
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Java Full Stack development
+- 👀 I’ve over 3 years experience of in Fullstack development
+- 🌱 I’m currently working in Capgemini as a Java Full Stack developer
 - 📫 mail: shubhamkumar10516@gmail.com
 
 <!---
